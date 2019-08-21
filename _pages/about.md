@@ -5,7 +5,7 @@ description: A collection of artwork. Probably not good.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/site/art.jpg)
 
 ## Features
 
