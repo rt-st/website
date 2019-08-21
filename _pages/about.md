@@ -1,7 +1,7 @@
 ---
-title: About 'rtst'
-subtitle: I'm starting to put some art online, I hope you like it! 
-description: Duet is a beautiful Jekyll portfolio theme.
+title: About 'Me'
+subtitle: I'm starting to put some art online, going under the pseudonym of 'rtst' for now... 
+description: A collection of artwork. Probably not good.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
