@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: rtst - not famous
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Works'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: People either love me or they hate me, or they don't really care.
 
 grid_settings:
   overlay_opacity: 0.8
